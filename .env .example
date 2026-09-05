@@ -1,0 +1,7 @@
+PORT=3000
+MONGO_URI=mongodb://catalogobulk_app:12345678Ce@ac-xfgr3rk-shard-00-00.mqkzarx.mongodb.net:27017,ac-xfgr3rk-shard-00-01.mqkzarx.mongodb.net:27017,ac-xfgr3rk-shard-00-02.mqkzarx.mongodb.net:27017/?ssl=true&replicaSet=atlas-v8vi0x-shard-0&authSource=admin&appName=Cluster0
+REDIS_HOST=history-notebook-jazzy-60227.db.redis.io
+REDIS_PORT=18190
+REDIS_PASSWORD=Diego3185356995
+JWT_SECRET=k8Pz9mQ2xR7vL4tN6wJ1sD3fH5bY0cA8eU2iO9pM7qX4rT6yV1nK3jG5hZ
+JWT_EXPIRES_IN=1h
